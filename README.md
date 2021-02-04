@@ -1,2 +1,2 @@
 # humanoid-hunt
-Solve Humanoid Hunt at hunt.reaktor.com
+Solve Humanoid Hunt at https://hunt.reaktor.com
